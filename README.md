@@ -1,4 +1,4 @@
-# Movie-App-React-Native  
+# MoviesX
 
 ## Get Started
 
